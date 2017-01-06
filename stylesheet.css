@@ -1,0 +1,27 @@
+html {
+	font-family: 'helvetica neue', sans-serif;
+	background-color: #00a9ec;
+}
+
+body {
+	margin: 0px;
+	height: 700px;
+	text-align: center;
+	color: white;
+}
+
+table {
+	background-color: #0077A4;
+	margin: 75px auto;
+	height: 600px;
+	width: 600px;
+	padding: 5px;
+}
+
+.row {
+	border: 1px white;
+}
+
+.row:hover, .row:active, .row:focus {
+	background-color: #005D80;
+}
